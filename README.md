@@ -13,3 +13,35 @@ Courtesy of the John James Audubon Center at Mill Grove, Montgomery County Audub
 <br />
 
 Please consult Audubon's [Terms of Use](https://www.audubon.org/terms-use) before downloading, and please credit the illustrations as follows: "Courtesy of the John James Audubon Center at Mill Grove, Montgomery County Audubon Collection, and Zebra Publishing."
+
+---
+
+## Library
+
+**Plates 1-99**
+
+![Plates 1-33](./img/plates-0-1.jpg)
+![Plates 2-66](./img/plates-0-2.jpg)
+![Plates 3-99](./img/plates-0-3.jpg)
+
+**Plates 100-199**
+
+![Plates 100-132](./img/plates-1-1.jpg)
+![Plates 133-165](./img/plates-1-2.jpg)
+![Plates 166-199](./img/plates-1-3.jpg)
+
+**Plates 200-299**
+
+![Plates 200-232](./img/plates-2-1.jpg)
+![Plates 233-265](./img/plates-2-2.jpg)
+![Plates 266-299](./img/plates-2-3.jpg)
+
+**Plates 300-399**
+
+![Plates 300-332](./img/plates-3-1.jpg)
+![Plates 333-365](./img/plates-3-2.jpg)
+![Plates 366-399](./img/plates-3-3.jpg)
+
+**Plates 400-435**
+
+![Plates 400-435](./img/plates-4-1.jpg)
